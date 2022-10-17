@@ -193,3 +193,5 @@ fetchChat.on("child_added", function (snapshot) {
     // append the message on the page
     document.getElementById("messages").innerHTML += message;
 });
+//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
+// git remote origin https:github.com/dipakpatil025/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@github.com/simple-chat-application.git
